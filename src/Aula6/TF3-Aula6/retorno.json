@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "TECLADO MECÂNICO",
+    "preco": 250,
+    "quantidade": 3
+  },
+  {
+    "nome": "MOUSE GAMER",
+    "preco": 120,
+    "quantidade": 12
+  },
+  {
+    "nome": "MONITOR 27",
+    "preco": 1100,
+    "quantidade": 2
+  },
+  {
+    "nome": "HEADSET USB",
+    "preco": 200,
+    "quantidade": 8
+  }
+]

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Estoque</title>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div>
+        <h1>Dashboard de Estoque</h1>
+        <div id="status-carregamento" class="status">Iniciando...</div>
+      </div>
+      <div class="actions">
+        <button id="btn-recarregar">Recarregar Dados</button>
+      </div>
+    </header>
+
+    <div class="cards-grid">
+      <div class="card">
+        <div class="card-title">Total de Produtos</div>
+        <div id="total-produtos" class="card-value">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Preço Médio</div>
+        <div id="preco-medio" class="card-value">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Valor Total em Estoque</div>
+        <div id="valor-total-estoque" class="card-value card-highlight-green">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Menor Estoque</div>
+        <div id="menor-estoque" class="card-value card-highlight-rose" style="font-size: 1rem;">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Maior Estoque</div>
+        <div id="maior-estoque" class="card-value card-highlight-amber" style="font-size: 1rem;">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Produtos abaixo de R$ 100</div>
+        <div id="quantidade-menor-100" class="card-value">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Média abaixo de R$ 100</div>
+        <div id="media-menor-100" class="card-value card-highlight-green">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Produtos acima de R$ 500</div>
+        <div id="quantidade-maior-500" class="card-value">-</div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Média acima de R$ 500</div>
+        <div id="media-maior-500" class="card-value card-highlight-amber">-</div>
+      </div>
+    </div>
+
+    <div class="table-container">
+      <div class="table-header-title">Lista de Produtos (4 Campos)</div>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th style="width: 15%;">Código</th>
+              <th style="width: 45%;">Nome</th>
+              <th style="width: 20%;">Preço</th>
+              <th style="width: 20%;">Quantidade</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-produtos-corpo">
+            <tr>
+              <td colspan="4" style="text-align: center; color: var(--text-muted);">Carregando produtos...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="./dist/Aula8/dashboard.js"></script>
+</body>
+</html>

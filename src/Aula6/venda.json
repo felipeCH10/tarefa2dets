@@ -1,0 +1,827 @@
+[
+  {
+    "produtos": [
+      {
+        "idProduto": 1050,
+        "quantidadeProduto": 2,
+        "valor": 349.9
+      },
+      {
+        "idProduto": 1073,
+        "quantidadeProduto": 4,
+        "valor": 450
+      },
+      {
+        "idProduto": 1007,
+        "quantidadeProduto": 3,
+        "valor": 279
+      }
+    ],
+    "valorTotal": 3336.8,
+    "dataHora": "2026-08-25T05:20:13.547Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1096,
+        "quantidadeProduto": 2,
+        "valor": 429
+      },
+      {
+        "idProduto": 1005,
+        "quantidadeProduto": 3,
+        "valor": 65
+      }
+    ],
+    "valorTotal": 1053,
+    "dataHora": "2026-08-17T03:14:24.312Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1028,
+        "quantidadeProduto": 3,
+        "valor": 7800
+      }
+    ],
+    "valorTotal": 23400,
+    "dataHora": "2026-08-20T08:59:30.574Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1003,
+        "quantidadeProduto": 2,
+        "valor": 199.9
+      },
+      {
+        "idProduto": 1039,
+        "quantidadeProduto": 4,
+        "valor": 5600
+      }
+    ],
+    "valorTotal": 22799.8,
+    "dataHora": "2026-08-21T07:20:01.786Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1009,
+        "quantidadeProduto": 2,
+        "valor": 450
+      }
+    ],
+    "valorTotal": 900,
+    "dataHora": "2026-08-01T15:22:06.691Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1087,
+        "quantidadeProduto": 4,
+        "valor": 4200
+      }
+    ],
+    "valorTotal": 16800,
+    "dataHora": "2026-08-03T20:47:41.958Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1079,
+        "quantidadeProduto": 3,
+        "valor": 2499
+      }
+    ],
+    "valorTotal": 7497,
+    "dataHora": "2026-08-15T12:33:41.656Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1074,
+        "quantidadeProduto": 1,
+        "valor": 199.9
+      },
+      {
+        "idProduto": 1064,
+        "quantidadeProduto": 3,
+        "valor": 6890
+      }
+    ],
+    "valorTotal": 20869.9,
+    "dataHora": "2026-08-09T02:58:08.672Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1089,
+        "quantidadeProduto": 3,
+        "valor": 1250
+      },
+      {
+        "idProduto": 1025,
+        "quantidadeProduto": 2,
+        "valor": 3499.9
+      },
+      {
+        "idProduto": 1001,
+        "quantidadeProduto": 4,
+        "valor": 249.9
+      }
+    ],
+    "valorTotal": 11749.4,
+    "dataHora": "2026-08-17T22:51:23.990Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1015,
+        "quantidadeProduto": 1,
+        "valor": 175
+      },
+      {
+        "idProduto": 1021,
+        "quantidadeProduto": 1,
+        "valor": 1299
+      },
+      {
+        "idProduto": 1028,
+        "quantidadeProduto": 1,
+        "valor": 7800
+      }
+    ],
+    "valorTotal": 9274,
+    "dataHora": "2026-08-20T02:09:51.719Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1003,
+        "quantidadeProduto": 3,
+        "valor": 199.9
+      },
+      {
+        "idProduto": 1021,
+        "quantidadeProduto": 4,
+        "valor": 1299
+      },
+      {
+        "idProduto": 1012,
+        "quantidadeProduto": 4,
+        "valor": 189
+      }
+    ],
+    "valorTotal": 6551.7,
+    "dataHora": "2026-08-02T11:37:42.690Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1066,
+        "quantidadeProduto": 2,
+        "valor": 799
+      },
+      {
+        "idProduto": 1051,
+        "quantidadeProduto": 1,
+        "valor": 1199
+      }
+    ],
+    "valorTotal": 2797,
+    "dataHora": "2026-08-11T22:03:58.935Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1062,
+        "quantidadeProduto": 4,
+        "valor": 2299.9
+      },
+      {
+        "idProduto": 1084,
+        "quantidadeProduto": 2,
+        "valor": 180
+      }
+    ],
+    "valorTotal": 9559.6,
+    "dataHora": "2026-08-06T03:17:00.584Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1074,
+        "quantidadeProduto": 3,
+        "valor": 199.9
+      },
+      {
+        "idProduto": 1026,
+        "quantidadeProduto": 4,
+        "valor": 1099
+      },
+      {
+        "idProduto": 1019,
+        "quantidadeProduto": 1,
+        "valor": 79.9
+      }
+    ],
+    "valorTotal": 5075.6,
+    "dataHora": "2026-08-07T06:01:04.399Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1075,
+        "quantidadeProduto": 2,
+        "valor": 1299
+      },
+      {
+        "idProduto": 1010,
+        "quantidadeProduto": 3,
+        "valor": 599.9
+      },
+      {
+        "idProduto": 1037,
+        "quantidadeProduto": 2,
+        "valor": 3599
+      }
+    ],
+    "valorTotal": 11595.7,
+    "dataHora": "2026-08-05T08:26:56.379Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1037,
+        "quantidadeProduto": 3,
+        "valor": 3599
+      }
+    ],
+    "valorTotal": 10797,
+    "dataHora": "2026-08-07T16:17:47.807Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1027,
+        "quantidadeProduto": 2,
+        "valor": 4299
+      }
+    ],
+    "valorTotal": 8598,
+    "dataHora": "2026-08-26T20:06:45.316Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1057,
+        "quantidadeProduto": 4,
+        "valor": 5200
+      }
+    ],
+    "valorTotal": 20800,
+    "dataHora": "2026-08-18T08:34:45.830Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1021,
+        "quantidadeProduto": 3,
+        "valor": 1299
+      }
+    ],
+    "valorTotal": 3897,
+    "dataHora": "2026-08-24T22:20:36.231Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1024,
+        "quantidadeProduto": 4,
+        "valor": 2199
+      },
+      {
+        "idProduto": 1054,
+        "quantidadeProduto": 2,
+        "valor": 989.9
+      }
+    ],
+    "valorTotal": 10775.8,
+    "dataHora": "2026-08-10T01:01:03.886Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1077,
+        "quantidadeProduto": 1,
+        "valor": 379
+      }
+    ],
+    "valorTotal": 379,
+    "dataHora": "2026-08-04T18:47:32.475Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1092,
+        "quantidadeProduto": 2,
+        "valor": 799.9
+      },
+      {
+        "idProduto": 1042,
+        "quantidadeProduto": 1,
+        "valor": 299
+      }
+    ],
+    "valorTotal": 1898.8,
+    "dataHora": "2026-08-05T17:42:41.720Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1087,
+        "quantidadeProduto": 4,
+        "valor": 4200
+      },
+      {
+        "idProduto": 1061,
+        "quantidadeProduto": 2,
+        "valor": 1499
+      },
+      {
+        "idProduto": 1053,
+        "quantidadeProduto": 1,
+        "valor": 2499
+      }
+    ],
+    "valorTotal": 22297,
+    "dataHora": "2026-08-10T18:54:12.647Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1031,
+        "quantidadeProduto": 1,
+        "valor": 1899
+      }
+    ],
+    "valorTotal": 1899,
+    "dataHora": "2026-08-19T05:03:12.222Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1015,
+        "quantidadeProduto": 2,
+        "valor": 175
+      },
+      {
+        "idProduto": 1048,
+        "quantidadeProduto": 2,
+        "valor": 230
+      },
+      {
+        "idProduto": 1097,
+        "quantidadeProduto": 3,
+        "valor": 419
+      }
+    ],
+    "valorTotal": 2067,
+    "dataHora": "2026-08-06T12:36:02.102Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1038,
+        "quantidadeProduto": 3,
+        "valor": 1100
+      },
+      {
+        "idProduto": 1069,
+        "quantidadeProduto": 3,
+        "valor": 1750
+      }
+    ],
+    "valorTotal": 8550,
+    "dataHora": "2026-08-23T06:32:53.569Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1004,
+        "quantidadeProduto": 4,
+        "valor": 89.9
+      },
+      {
+        "idProduto": 1076,
+        "quantidadeProduto": 4,
+        "valor": 680
+      }
+    ],
+    "valorTotal": 3079.6,
+    "dataHora": "2026-08-23T15:40:02.211Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1042,
+        "quantidadeProduto": 1,
+        "valor": 299
+      }
+    ],
+    "valorTotal": 299,
+    "dataHora": "2026-08-07T09:38:11.023Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1035,
+        "quantidadeProduto": 3,
+        "valor": 650
+      },
+      {
+        "idProduto": 1015,
+        "quantidadeProduto": 2,
+        "valor": 175
+      }
+    ],
+    "valorTotal": 2300,
+    "dataHora": "2026-08-03T00:46:00.647Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1082,
+        "quantidadeProduto": 2,
+        "valor": 2199
+      },
+      {
+        "idProduto": 1016,
+        "quantidadeProduto": 3,
+        "valor": 310
+      },
+      {
+        "idProduto": 1086,
+        "quantidadeProduto": 3,
+        "valor": 4799
+      }
+    ],
+    "valorTotal": 19725,
+    "dataHora": "2026-08-07T06:40:37.481Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1086,
+        "quantidadeProduto": 4,
+        "valor": 4799
+      },
+      {
+        "idProduto": 1089,
+        "quantidadeProduto": 3,
+        "valor": 1250
+      },
+      {
+        "idProduto": 1084,
+        "quantidadeProduto": 2,
+        "valor": 180
+      }
+    ],
+    "valorTotal": 23306,
+    "dataHora": "2026-08-18T19:24:16.140Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1005,
+        "quantidadeProduto": 1,
+        "valor": 65
+      },
+      {
+        "idProduto": 1010,
+        "quantidadeProduto": 1,
+        "valor": 599.9
+      },
+      {
+        "idProduto": 1059,
+        "quantidadeProduto": 3,
+        "valor": 699
+      }
+    ],
+    "valorTotal": 2761.9,
+    "dataHora": "2026-08-04T03:45:57.937Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1050,
+        "quantidadeProduto": 3,
+        "valor": 349.9
+      },
+      {
+        "idProduto": 1003,
+        "quantidadeProduto": 3,
+        "valor": 199.9
+      },
+      {
+        "idProduto": 1057,
+        "quantidadeProduto": 4,
+        "valor": 5200
+      }
+    ],
+    "valorTotal": 22449.4,
+    "dataHora": "2026-08-05T06:30:21.402Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1100,
+        "quantidadeProduto": 1,
+        "valor": 49.9
+      },
+      {
+        "idProduto": 1070,
+        "quantidadeProduto": 1,
+        "valor": 8999
+      }
+    ],
+    "valorTotal": 9048.9,
+    "dataHora": "2026-08-09T17:15:55.531Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1043,
+        "quantidadeProduto": 4,
+        "valor": 119.9
+      }
+    ],
+    "valorTotal": 479.6,
+    "dataHora": "2026-08-21T00:32:20.443Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1068,
+        "quantidadeProduto": 4,
+        "valor": 1899
+      },
+      {
+        "idProduto": 1028,
+        "quantidadeProduto": 4,
+        "valor": 7800
+      },
+      {
+        "idProduto": 1044,
+        "quantidadeProduto": 4,
+        "valor": 180
+      }
+    ],
+    "valorTotal": 39516,
+    "dataHora": "2026-08-20T20:41:27.532Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1098,
+        "quantidadeProduto": 4,
+        "valor": 149.9
+      },
+      {
+        "idProduto": 1045,
+        "quantidadeProduto": 1,
+        "valor": 250
+      },
+      {
+        "idProduto": 1063,
+        "quantidadeProduto": 4,
+        "valor": 4999
+      }
+    ],
+    "valorTotal": 20845.6,
+    "dataHora": "2026-08-19T21:29:16.543Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1086,
+        "quantidadeProduto": 4,
+        "valor": 4799
+      }
+    ],
+    "valorTotal": 19196,
+    "dataHora": "2026-08-19T23:20:33.909Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1084,
+        "quantidadeProduto": 4,
+        "valor": 180
+      },
+      {
+        "idProduto": 1088,
+        "quantidadeProduto": 2,
+        "valor": 2100
+      }
+    ],
+    "valorTotal": 4920,
+    "dataHora": "2026-08-11T02:13:00.968Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1051,
+        "quantidadeProduto": 4,
+        "valor": 1199
+      },
+      {
+        "idProduto": 1019,
+        "quantidadeProduto": 1,
+        "valor": 79.9
+      }
+    ],
+    "valorTotal": 4875.9,
+    "dataHora": "2026-08-21T12:58:37.853Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1060,
+        "quantidadeProduto": 4,
+        "valor": 2799
+      },
+      {
+        "idProduto": 1094,
+        "quantidadeProduto": 4,
+        "valor": 650
+      }
+    ],
+    "valorTotal": 13796,
+    "dataHora": "2026-08-14T21:28:53.098Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1055,
+        "quantidadeProduto": 3,
+        "valor": 850
+      },
+      {
+        "idProduto": 1010,
+        "quantidadeProduto": 1,
+        "valor": 599.9
+      }
+    ],
+    "valorTotal": 3149.9,
+    "dataHora": "2026-08-20T12:30:08.143Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1088,
+        "quantidadeProduto": 4,
+        "valor": 2100
+      },
+      {
+        "idProduto": 1052,
+        "quantidadeProduto": 2,
+        "valor": 1399.9
+      }
+    ],
+    "valorTotal": 11199.8,
+    "dataHora": "2026-08-21T11:20:50.964Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1090,
+        "quantidadeProduto": 4,
+        "valor": 4199
+      },
+      {
+        "idProduto": 1015,
+        "quantidadeProduto": 1,
+        "valor": 175
+      },
+      {
+        "idProduto": 1039,
+        "quantidadeProduto": 4,
+        "valor": 5600
+      }
+    ],
+    "valorTotal": 39371,
+    "dataHora": "2026-08-24T17:00:27.256Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1031,
+        "quantidadeProduto": 3,
+        "valor": 1899
+      },
+      {
+        "idProduto": 1061,
+        "quantidadeProduto": 2,
+        "valor": 1499
+      },
+      {
+        "idProduto": 1069,
+        "quantidadeProduto": 3,
+        "valor": 1750
+      }
+    ],
+    "valorTotal": 13945,
+    "dataHora": "2026-08-14T16:33:40.166Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1051,
+        "quantidadeProduto": 1,
+        "valor": 1199
+      },
+      {
+        "idProduto": 1013,
+        "quantidadeProduto": 2,
+        "valor": 220
+      },
+      {
+        "idProduto": 1028,
+        "quantidadeProduto": 2,
+        "valor": 7800
+      }
+    ],
+    "valorTotal": 17239,
+    "dataHora": "2026-08-14T12:50:57.316Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1005,
+        "quantidadeProduto": 1,
+        "valor": 65
+      },
+      {
+        "idProduto": 1100,
+        "quantidadeProduto": 3,
+        "valor": 49.9
+      },
+      {
+        "idProduto": 1026,
+        "quantidadeProduto": 3,
+        "valor": 1099
+      }
+    ],
+    "valorTotal": 3511.7,
+    "dataHora": "2026-08-03T16:34:33.441Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1027,
+        "quantidadeProduto": 4,
+        "valor": 4299
+      },
+      {
+        "idProduto": 1068,
+        "quantidadeProduto": 3,
+        "valor": 1899
+      }
+    ],
+    "valorTotal": 22893,
+    "dataHora": "2026-08-13T10:53:37.901Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1089,
+        "quantidadeProduto": 3,
+        "valor": 1250
+      }
+    ],
+    "valorTotal": 3750,
+    "dataHora": "2026-08-02T09:34:57.101Z"
+  },
+  {
+    "produtos": [
+      {
+        "idProduto": 1066,
+        "quantidadeProduto": 1,
+        "valor": 799
+      },
+      {
+        "idProduto": 1042,
+        "quantidadeProduto": 3,
+        "valor": 299
+      },
+      {
+        "idProduto": 1059,
+        "quantidadeProduto": 1,
+        "valor": 699
+      }
+    ],
+    "valorTotal": 2395,
+    "dataHora": "2026-08-04T15:15:01.823Z"
+  }
+]
